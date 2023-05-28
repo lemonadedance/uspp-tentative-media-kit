@@ -1,0 +1,43 @@
+.main-table {
+    width: 60%;
+    margin: 0 auto; /*Centered table on horizontal axis.*/
+    border-collapse: collapse;
+    border: 2.5px solid black;
+}
+td {
+  padding: 5px 30px 5px 30px;
+}
+h1 {
+    color: #672082;
+}
+h2 {
+    color: #f80;
+}
+h3 {
+    color: black;
+}
+.font-sans {
+  font-family: sans-serif;
+}
+.font-serif {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.font-code {
+    font-family:'Courier New', Courier, monospace;
+}
+.justified-row {
+    text-align: justify; /*Justified table row.*/
+}
+.centered-row { 
+    text-align: center; /*Centered table row.*/
+}
+.picture-width {
+    width: 95%;
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 1.25px;
+}
+hr {
+    width: 80%;
+    justify-content: center;
+}
