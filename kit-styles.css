@@ -16,6 +16,9 @@ h2 {
 h3 {
     color: black;
 }
+h4 {
+    color: #3c3c3c;
+}
 .font-sans {
   font-family: sans-serif;
 }
@@ -32,7 +35,7 @@ h3 {
     text-align: center; /*Centered table row.*/
 }
 .picture-width {
-    width: 95%;
+    width: 100%;
     outline-color: black;
     outline-style: solid;
     outline-width: 1.25px;
